@@ -5,9 +5,9 @@
   "name": "hello-express",
   "version": "0.0.1",
   "description": "STRIGA V12",
-  "main": "./.databot.js",
+  "main": "./.data/bot.js",
   "scripts": {
-    "start": "node ./.databot.js"
+    "start": "node ./.data/bot.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
